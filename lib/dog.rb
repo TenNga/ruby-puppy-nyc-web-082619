@@ -1,1 +1,5 @@
-# Add your code here
+def Dog 
+  def initialize (name)
+    @name = name 
+  end
+end #endOfDogClass
